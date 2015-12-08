@@ -1,0 +1,16 @@
+{
+  "name": "alipay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zqgu",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "request": "^2.67.0",
+    "xml2js": "^0.4.15"
+  }
+}
